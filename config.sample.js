@@ -1,0 +1,3 @@
+const config = {
+  MY_API_KEY: "BURAYA_KENDI_API_ANAHTARINIZI_YAZIN",
+};
